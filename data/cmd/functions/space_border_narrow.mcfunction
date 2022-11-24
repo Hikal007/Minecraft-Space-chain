@@ -1,4 +1,4 @@
-# Start border contraction
+# Start border contraction.
 # 开始边界收缩
 
 worldborder center 0 0
