@@ -1,0 +1,1 @@
+playsound minecraft:music_disc.stal voice @a
