@@ -1,2 +1,9 @@
-# Minecraft-Space-chain
-Minecraft Space-chain datapack
+该数据包为 B站@希克君、@Hikal007 原创
+
+本数据包为免费发布！不会以任何收费手段发布！严禁通过买卖该数据包盈利！
+
+欢迎二创完善转载，表明原作者即可！
+
+制作不易，如果您是办活动拍视频的话，也标注下原作者吧，我给你三连QAQ
+
+管理员输入 /funtion item:cmdbook 即可获得控制书（不用控制书的话也可以选择用指令AWA）
