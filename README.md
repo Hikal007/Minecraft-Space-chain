@@ -8,4 +8,5 @@
 
 本数据包为免费发布！不会以任何收费手段发布！严禁使用该数据包盈利！
 
-Discord: Catalpa Hikal#7483
+Discord: Hikal#7483
+KOOK: 希克君#7777
