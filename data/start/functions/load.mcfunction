@@ -1,10 +1,9 @@
-
 # Here is the function that starts and runs
 # 这里是启动即运行的函数
 
 function core:main
 function core:health_boost_cycle
-function core:sidebarmsg
+function sidebarmsg:sidebarmsg_core
 
 # Load Text
 # 载入语
